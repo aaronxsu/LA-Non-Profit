@@ -1,1 +1,3 @@
 == README
+View this project deployed on Heroku:
+https://la-plotting.herokuapp.com/
